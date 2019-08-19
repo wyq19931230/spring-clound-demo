@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6125941d-2053-45b8-a187-77b1818d8749" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\source\jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../software/mven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\software\mven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PXaRK1Qici9juWRTLc4td9wS1F" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springclound.eruekaserver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springclound" />
+      <recent name="D:\springclound\eruekaServer2\src\main\resources" />
+      <recent name="D:\springclound\eruekaServer2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EruekaClientFegin1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eruekaClient1 (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.eruekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.eruekaclient.EruekaClientFegin1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EruekaServer (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eruekaServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.eruekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.eruekaserver.EruekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EruekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eruekaserver1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.test.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.test.demo.EruekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EruekaServer1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eruekaServer2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.eruekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.eruekaserver.EruekaServer1" />
+      <option name="PROGRAM_PARAMETERS" value="port:8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RebooinDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serverPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.rebooin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.rebooin.RebooinDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eruekaClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eruekaClient1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.eruekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.eruekaclient.eruekaClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eruekaClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eruekaClient1 (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springclound.eruekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springclound.eruekaclient.eruekaClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.eruekaClient" />
+      <item itemvalue="Spring Boot.EruekaServer1" />
+      <item itemvalue="Spring Boot.EruekaServer" />
+      <item itemvalue="Spring Boot.EruekaServer (1)" />
+      <item itemvalue="Spring Boot.RebooinDemo" />
+      <item itemvalue="Spring Boot.eruekaClient (1)" />
+      <item itemvalue="Spring Boot.EruekaClientFegin1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EruekaClientFegin1" />
+        <item itemvalue="Spring Boot.eruekaClient (1)" />
+        <item itemvalue="Spring Boot.EruekaServer" />
+        <item itemvalue="Spring Boot.RebooinDemo" />
+        <item itemvalue="Spring Boot.EruekaServer (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6125941d-2053-45b8-a187-77b1818d8749" name="Default Changelist" comment="" />
+      <created>1566022886094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566022886094</updated>
+      <workItem from="1566022889645" duration="5455000" />
+      <workItem from="1566030775823" duration="856000" />
+      <workItem from="1566031733327" duration="1220000" />
+      <workItem from="1566100906532" duration="10336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

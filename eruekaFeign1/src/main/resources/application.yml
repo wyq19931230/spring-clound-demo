@@ -1,0 +1,17 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: feginClient
+eureka:
+  client:
+      service-url:
+        defaultZone:  http://localhost:7001/eureka/,http://localhost:7000/eureka/
+
+
+  instance:
+    hostname: localhost
+
+
+
+

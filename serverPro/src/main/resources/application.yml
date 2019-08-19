@@ -1,0 +1,11 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: rebbionCostumer
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7000/eureka/
+  instance:
+    hostname: localhost

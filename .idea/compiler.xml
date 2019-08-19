@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eruekaClient1 (1)" />
+        <module name="eruekaClient1 (2)" />
+        <module name="eruekaserver1" />
+        <module name="serverPro" />
+        <module name="eruekaServer2" />
+        <module name="eruekaClient1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eruekaClient1" options="-parameters" />
+      <module name="eruekaClient1 (1)" options="-parameters" />
+      <module name="eruekaClient1 (2)" options="-parameters" />
+      <module name="eruekaServer2" options="-parameters" />
+      <module name="eruekaserver1" options="-parameters" />
+      <module name="serverPro" options="-parameters" />
+    </option>
+  </component>
+</project>
